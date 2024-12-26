@@ -15,3 +15,4 @@
 # bootstrap
 # bootstrap
 # maktabim
+# bizningmaktab
