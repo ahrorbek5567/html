@@ -5,3 +5,4 @@
 # 9-maktab
 # bizning-maktab
 # maktab1
+# maktab2
